@@ -3,4 +3,5 @@ public static void main (String args[])
 int i=20
 float r=20.5
 char n='vicky'
+char n='sivakumar'
 }
